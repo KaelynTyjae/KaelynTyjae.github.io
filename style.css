@@ -40,6 +40,7 @@ a {
 main {
     background: #CAC2B5;
     display: flex;
+    border-radius: 10px;
 }
 .sidebar {
     margin-right: 25px;
